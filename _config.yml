@@ -79,3 +79,5 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:ivanjlee/ivanjlee.github.io.git
+  name: Ivan J. Lee
+  email: lijundut@foxmail.com
