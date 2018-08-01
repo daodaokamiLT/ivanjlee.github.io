@@ -1,7 +1,8 @@
 ---
 title: Git常用命令
-date: 2017-06-08 23:12:03
+date: 2017-06-08 23:13:00
 tags: git
+category: tools
 ---
 *本文出处https://zhuanlan.zhihu.com/p/25415162 或者 http://blog.csdn.net/u013301192/article/details/69568557*
 

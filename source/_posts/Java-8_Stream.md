@@ -1,7 +1,8 @@
 ---
 title: Java 8函数式数据处理
 date: 2017-12-27 23:56:00
-tags: java8
+tags: java
+categoty: tech
 ---
 
 

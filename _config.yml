@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ivan J. Lee
+title: リグさん
 subtitle:
-description: 👿
-keywords:
+description: Love every moment of life, no matter it's good or not.
+keywords: 
 author: Ivan J. Lee
-language: en-US
+language: en
 timezone: 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -23,6 +23,7 @@ public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
+schedule_dir: schedule
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -34,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -81,3 +82,9 @@ deploy:
   repo: git@github.com:ivanjlee/ivanjlee.github.io.git
   name: Ivan J. Lee
   email: lijundut@foxmail.com
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000

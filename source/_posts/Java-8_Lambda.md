@@ -1,7 +1,8 @@
 ---
 title: Java 8函数式编程–––Lambda表达式
 date: 2017-11-28 00:40:00
-tags: java8
+tags: java
+category: tech
 ---
 
 
